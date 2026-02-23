@@ -2,3 +2,9 @@ USA
 Canada
 Mexico
 UK
+Japan
+China
+India
+Germany
+France
+Italy
