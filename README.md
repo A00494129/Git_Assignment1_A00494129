@@ -14,4 +14,4 @@ This repository contains a series of tasks demonstrating core Git competencies, 
 * `shapes.txt` - Basic geometric shapes.
 * `numbers.txt` - Sequential numbering.
 * `bugfix.txt` - Applied via cherry-pick from the bugfix branch.
-"@ | Out-File -FilePath README.md -Encoding ascii
+
